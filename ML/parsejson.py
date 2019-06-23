@@ -1,6 +1,8 @@
 import csv
 import urllib.request
 k = urllib.request.urlopen("https://gaia.blockstack.org/hub/1JE69BrdRVgVCWzjbRxVB3Uak22ebFBfu5/rajathav.id.blockstack/1.json").read()
+#edit the above url with the credentials you get from apps:{} section in your profile.json from the Gaia hub
+#https://gaia.blockstack.org/hub/api/ID/filename.json"
 import json
 k=str(k)
 r=k.split("\\\\t")

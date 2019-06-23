@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### 'npm install' #to install dependencies
+### `npm install` #to install dependencies
 
 ### Install blockstack and radiks(if it throws incompactibility issuess)
 

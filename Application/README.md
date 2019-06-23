@@ -6,6 +6,10 @@ In the project directory, you can run:
 
 ### 'npm install' #to install dependencies
 
+### Install blockstack and radiks(if it throws incompactibility issuess)
+
+### `npm install blockstack`
+
 ### `npm start`
 
 Runs the app in the development mode.<br>

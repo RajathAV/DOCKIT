@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
-
+See the note at the end
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
@@ -46,3 +46,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 **VISIT THE BELOW GIVEN LINK TO ACCESS AND USE THE APPLICATION:**
 www.dokterapp.tk
 The application is hosted on netlify to remotely access the application
+
+
+**NOTE : PLEASE INSTALL BLOCKSTACK BROWSER TO RUN THIS APPLICATION**
